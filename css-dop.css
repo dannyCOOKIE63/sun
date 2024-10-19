@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(208, 149, 231);
+
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-family: fantasy;
+    
+}
+h4{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(68, 11, 93);
+}
+a{
+    text-decoration: none;
+    color: moccasin;
+    font-size: 40px;
+}
+img{
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 10px;
+    width: 20%;
+}

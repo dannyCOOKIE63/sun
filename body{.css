@@ -1,0 +1,137 @@
+body {
+    text-align: center;
+    background-color: blueviolet;
+}
+
+h1 {
+    font-family: fantasy;
+    background-color: darkorange;
+
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 10px;
+    width: 20%;
+    box-shadow: 12px 6px 8px 1px rgba(0, 255, 153, 0.703);
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+span {
+    color: rgb(0, 255, 89);
+
+
+    font-style: ;
+}
+
+.love {
+    font-family: fantasy;
+    font-size: 30px;
+    color: red
+}
+
+.cinema {
+    font-family: fantasy;
+    font-size: 30px;
+    color: rgb(20, 39, 105);
+}
+
+.bike {
+    font-family: cursive;
+    font-size: larger;
+    color: coral;
+}
+
+a {
+    text-decoration: none;
+    font-family: fantasy;
+    color: rgb(27, 6, 66);
+    font-size: 30px;
+    font-weight: bold.
+
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.name {
+    font-size: 20px;
+    font-family: cursive;
+    color: rgb(48, 218, 18);
+    font-weight: bold
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;}
+.nev2{
+    color: aqua;
+}
+.pets{
+    color: chocolate;
+    font-size: 20px;
+    font-family: fantasy;
+}
+.family{
+    color: chartreuse;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.photo{
+    margin-top:50px
+}
+.text{
+    margin-top:60px;
+    border-style: dashed;
+    border-width: 5px;
+    width: 60%;
+    text-align:center;
+}
+.вк{
+    
+    font-size: 26px;
+    
+}
+footer{
+    background-color: rgb(69, 22, 208);
+}
+.petphoto{
+    display: flex;
+    justify-content: space-around;
+    font-family: fantasy;
+    text-align: center;
+}
+.pet{
+    display: inline-block;
+}
+.picsel{
+    font-size: 24px;
+    color: turquoise;
+    font-family: cursive;
+}
+.pre{
+    color: yellow;
+    font-family: sans-serif;
+    font-size: 30px;
+    border-style: groove;
+    width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+}
